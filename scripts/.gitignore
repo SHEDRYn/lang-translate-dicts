@@ -1,0 +1,5 @@
+# Кэш загруженных исходных файлов (WikDict .sqlite3, Arabic Lexicons .zip/.sqlite)
+cache/
+
+# Готовые .db файлы (загружаются на GitHub Releases)
+dicts/
